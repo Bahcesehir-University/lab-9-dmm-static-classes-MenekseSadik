@@ -220,7 +220,7 @@ int IntArray::getCapacity() const {
 
 // isEmpty
 bool IntArray::isEmpty() const {
-    count ==0;
+   return count ==0;
 }
 
 // Remove last element
