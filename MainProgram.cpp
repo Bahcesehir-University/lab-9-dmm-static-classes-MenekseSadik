@@ -116,6 +116,7 @@ int Tracker::getActiveCount() {
 }
 
 void Tracker::resetCount() {
+    objectCount =0;
     // TODO 5: Reset objectCount to 0
 }
 
